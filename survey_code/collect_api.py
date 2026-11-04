@@ -34,7 +34,9 @@ def prompts(mode,role,profile,train):
         'fewshot':'Complete the survey task using the supplied independent training examples.',
     }[role]+' '+QUESTIONS
     if role=='fewshot':
-        text+=' Independent training data only (columns followed by rows): '+train[FEATURES+['agree','very_happy']].to_csv(index=False)
+        # The original Windows run used CRLF inside the prompt's CSV examples.
+        # Fix it explicitly so Linux/macOS reconstruct identical request hashes.
+        text+=' Independent training data only (columns followed by rows): '+train[FEATURES+['agree','very_happy']].to_csv(index=False,lineterminator='\r\n')
         text+=' The released real data combine Strongly agree and Agree as agree=1, and Disagree and Strongly disagree as agree=0. very_happy=1 means Very happy; 0 combines the other two categories.'
     if mode=='conditional':
         text+=' Fixed respondent profile: '+json.dumps(profile,ensure_ascii=False)+'. Do not change these attributes. '

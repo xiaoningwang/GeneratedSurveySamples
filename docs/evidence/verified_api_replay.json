@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "network_requests": 0,
+  "main_requests": 8708,
+  "main_valid": 8707,
+  "main_invalid": 1,
+  "pilot_requests": 32,
+  "pilot_valid": 32,
+  "raw_prompts_and_request_hashes_reconstructed": true,
+  "parsed_records_match_analysis_csv": true,
+  "timestamps_utc": {
+    "main": {
+      "first": "2026-10-13T07:43:28.344211+00:00",
+      "last": "2026-10-13T08:39:07.240651+00:00"
+    },
+    "pilot": {
+      "first": "2026-10-13T07:35:43.768560+00:00",
+      "last": "2026-10-13T07:35:56.188658+00:00"
+    }
+  }
+}

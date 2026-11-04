@@ -1,0 +1,13 @@
+{
+  "source": "https://raw.githubusercontent.com/LemengLiang/SSDataBench-Data/main/processed_survey_data/sampled_gss.csv",
+  "sha256": "7b86f23d24b3355eb2094ccee1a5693e8950d55fef6db875d3c4bdb82e1232dc",
+  "source_rows": 1000,
+  "complete_rows": 659,
+  "training_rows": 100,
+  "benchmark_rows": 559,
+  "seed": 20261012,
+  "weighted_national_inference": false,
+  "api_records": 0,
+  "empirical_population_scope": "Complete-case published GSS 2018 subsample; not US population.",
+  "attitude_recoding": "Published GSS processing combines original fefam codes 1-2 as Agree and 3-4 as Disagree; age 89 is top-coded."
+}

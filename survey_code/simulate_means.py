@@ -46,7 +46,7 @@ for name,p,q,mu,b in scenarios:
     phat=rake(q,p)
     estimates={}
     estimates['真实样本均值']=(y.mean(1),np.sqrt(y.var(1,ddof=1)/n))
-    for label,t in [('直接合成均值',q),('边际校准',phat),('联合分组校准',p)]:
+    for label,t in [('直接生成均值',q),('边际校准',phat),('联合分组校准',p)]:
         est=gh@t
         # Fixed group quotas. The unbiased within-cell variance estimate is
         # mh/(mh-1) * gh*(1-gh); each group mean's variance divides it by mh.
@@ -64,7 +64,7 @@ for name,p,q,mu,b in scenarios:
         elif label=='残差校正 正确分布': theory_bias=0
         elif label=='残差校正 错误分布': theory_bias=float((q-p)@f)
         else:
-            t={'直接合成均值':q,'边际校准':phat,'联合分组校准':p}[label]
+            t={'直接生成均值':q,'边际校准':phat,'联合分组校准':p}[label]
             theory_bias=float(t@f-truth)
         stat['theory_bias']=theory_bias
         assert abs(stat['bias']-theory_bias) < 5*stat['bias_mcse']+1e-12

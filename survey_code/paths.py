@@ -1,7 +1,9 @@
 from pathlib import Path
+import os
 ROOT=Path(__file__).resolve().parent.parent
 DATA=ROOT/'survey_data'
-OUT=ROOT/'paper_results'
+# A separate output directory lets reviewers retain the published reference files.
+OUT=Path(os.environ.get('SURVEY_OUTPUT_DIR', str(ROOT/'paper_results'))).resolve()
 DETAILS=OUT/'details'
 MECHANISM=DETAILS/'mechanism'
 API=DETAILS/'api'

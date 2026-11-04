@@ -19,7 +19,8 @@ def main():
     OUT.mkdir(parents=True,exist_ok=True)
     path=DATA/'api_records.csv'
     if not path.exists():raise SystemExit('No actual API records. Run run_deepseek.py first; no mock estimates will be generated.')
-    status={'pilot':False,'complete_queue':True}
+    # Read the archived collection log rather than assume the queue completed.
+    status=json.loads((DATA/'api_raw/main_api_run_status.json').read_text(encoding='utf-8-sig'))
     if status.get('pilot'):raise SystemExit('Pilot outputs cannot be used as full manuscript results. Complete the main queue first.')
     calls=pd.read_csv(path);pop=pd.read_csv(DATA/'benchmark.csv');pop=pop.set_index('profile_id',drop=False)
     plan=json.loads((DATA/'api_metadata.json').read_text());K=plan['decode_repeats']

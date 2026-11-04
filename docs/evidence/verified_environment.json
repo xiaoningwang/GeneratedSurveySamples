@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "2026-11-04T01:47:27.420181+00:00",
+  "python": "3.13.5 (main, Aug 10 2026, 12:06:59) [GCC 14.2.0]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "machine": "x86_64",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8"
+  },
+  "rng": "numpy.random.default_rng / PCG64",
+  "seed_registry": "docs/randomness.md",
+  "api_mode": "original cached responses; no requests"
+}

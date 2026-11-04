@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "tables_checked": 14,
+  "figures_checked": 5,
+  "body_values_checked": 260,
+  "figure_05_data_checked": true,
+  "table_comparison": "exact displayed cells, ignoring whitespace and terminology-only changes",
+  "body_numeric_tolerance": {
+    "rtol": 1e-12,
+    "atol": 1e-12
+  },
+  "reference": {
+    "title": "大语言模型生成调查样本的统计偏差与推断有效性",
+    "version": "2026-11-03 三稿修改版",
+    "sha256": "28409f945c0a7f2157348e2c610c9c9e0944c7334a29c34aa83d995eed097cc1"
+  },
+  "differences": [],
+  "missing": [],
+  "figure_check": "file existence; numerical sources mapped in docs/result_map.md"
+}

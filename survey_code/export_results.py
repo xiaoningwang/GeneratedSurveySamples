@@ -41,7 +41,7 @@ def calculate_tables():
             label=m['method'].replace(' ','（')+('）' if ' ' in m['method'] else '')
             tables[5].append([scenario['name'].replace('总体',''),label,m['bias'],m['rmse'],100*m['coverage'],m['width']])
     z=read('group_gap_theory.csv')
-    tables[6]=[['总体','均值偏差','真实群体差值','合成群体差值','差值偏差']]+z[['population','mean_bias_joint','true_gap','generated_gap','gap_bias']].values.tolist()
+    tables[6]=[['总体','均值偏差','真实群体差值','生成群体差值','差值偏差']]+z[['population','mean_bias_joint','true_gap','generated_gap','gap_bias']].values.tolist()
     z=read('sample_sizes_mc.csv');tables[7]=[['真实样本量n','生成样本量m','方法','偏差','覆盖率（%）','平均宽度']]
     for n,m,method in [(200,500,'联合分组校准'),(200,2000,'联合分组校准'),(200,5000,'联合分组校准'),(50,5000,'残差校正'),(200,5000,'残差校正'),(500,5000,'残差校正')]:
         a=one(z,n=n,m=m,method=method);tables[7].append([n,m,method,a.bias,100*a.coverage,a.width])
