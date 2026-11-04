@@ -1,0 +1,17 @@
+{
+  "base_url": "https://api.deepseek.com",
+  "models": ["deepseek-flash"],
+  "roles": ["plain", "expert", "respondent", "fewshot"],
+  "decode_repeats": 3,
+  "joint_records": 500,
+  "pilot_profiles": 4,
+  "pilot_decode_repeats": 1,
+  "thinking": "disabled",
+  "reasoning_effort": "high",
+  "temperature": 0.7,
+  "max_tokens": 1024,
+  "workers": 2,
+  "timeout_seconds": 180,
+  "max_attempts": 3,
+  "mc_repeats": 2000
+}

@@ -1,0 +1,13 @@
+﻿role,variable,category,real_frequency,conditional_frequency,joint_frequency
+expert,happy,Very happy,0.2737030411449016,0.0,0.004
+expert,happy,Pretty happy,0.59391771019678,1.0,0.996
+expert,happy,Not too happy,0.13237924865831843,0.0,0.0
+fewshot,happy,Very happy,0.2737030411449016,0.046511627906976744,0.0
+fewshot,happy,Pretty happy,0.59391771019678,0.8819320214669052,1.0
+fewshot,happy,Not too happy,0.13237924865831843,0.07155635062611806,0.0
+plain,happy,Very happy,0.2737030411449016,0.0,0.002004008016032064
+plain,happy,Pretty happy,0.59391771019678,1.0,0.9979959919839679
+plain,happy,Not too happy,0.13237924865831843,0.0,0.0
+respondent,happy,Very happy,0.2737030411449016,0.0,0.0
+respondent,happy,Pretty happy,0.59391771019678,1.0,1.0
+respondent,happy,Not too happy,0.13237924865831843,0.0,0.0

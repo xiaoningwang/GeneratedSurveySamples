@@ -1,0 +1,9 @@
+mode,role,total,valid,failure_rate
+conditional,expert,1677,1677,0.0
+conditional,fewshot,1677,1677,0.0
+conditional,plain,1677,1677,0.0
+conditional,respondent,1677,1677,0.0
+joint,expert,500,500,0.0
+joint,fewshot,500,500,0.0
+joint,plain,500,499,0.0020000000000000018
+joint,respondent,500,500,0.0

@@ -1,0 +1,14 @@
+{
+  "conditional_inference_complete": true,
+  "all_outputs_valid": false,
+  "frozen_predictions": true,
+  "R": 2000,
+  "reported_model": "deepseek-flash",
+  "joint_calibration_is_descriptive": true,
+  "conditional_complete_roles": [
+    "expert",
+    "fewshot",
+    "plain",
+    "respondent"
+  ]
+}

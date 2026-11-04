@@ -1,0 +1,72 @@
+[
+  {
+    "table": 1,
+    "title": "信息来源及其统计作用",
+    "file": "table_01.csv"
+  },
+  {
+    "table": 2,
+    "title": "领域微调前后的统计检验通过率",
+    "file": "table_02.csv"
+  },
+  {
+    "table": 3,
+    "title": "评价对象指标与判定依据",
+    "file": "table_03.csv"
+  },
+  {
+    "table": 4,
+    "title": "四种已知总体的模拟参数",
+    "file": "table_04.csv"
+  },
+  {
+    "table": 5,
+    "title": "不同总体下六种方法的模拟结果",
+    "file": "table_05.csv"
+  },
+  {
+    "table": 6,
+    "title": "联合分组校准均值偏差与群体差值的对应关系",
+    "file": "table_06.csv"
+  },
+  {
+    "table": 7,
+    "title": "总体一的样本量敏感性结果",
+    "file": "table_07.csv"
+  },
+  {
+    "table": 8,
+    "title": "真实调查评价有限总体的基本特征",
+    "file": "table_08.csv"
+  },
+  {
+    "table": 9,
+    "title": "生成实验与统计方法对照",
+    "file": "table_09.csv"
+  },
+  {
+    "table": 10,
+    "title": "真实调查基准上的统计方法对照",
+    "file": "table_10.csv"
+  },
+  {
+    "table": 11,
+    "title": "四种提示下条件回答与联合生成的实际结果",
+    "file": "table_11.csv"
+  },
+  {
+    "table": 12,
+    "title": "重复回答平均的预测质量",
+    "file": "table_12.csv"
+  },
+  {
+    "table": 13,
+    "title": "实际预测下的均值推断与真实标签预算比较",
+    "file": "table_13.csv"
+  },
+  {
+    "table": 14,
+    "title": "少样本提示下预设群体差值的推断结果",
+    "file": "table_14.csv"
+  }
+]

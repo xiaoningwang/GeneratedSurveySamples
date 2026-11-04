@@ -1,0 +1,5 @@
+﻿role,statistic,real,conditional,joint
+expert,binary_target_phi,0.04335347969341841,,-0.012666679549651724
+fewshot,binary_target_phi,0.04335347969341841,0.044479012484889516,
+plain,binary_target_phi,0.04335347969341841,,0.07751149675057278
+respondent,binary_target_phi,0.04335347969341841,,

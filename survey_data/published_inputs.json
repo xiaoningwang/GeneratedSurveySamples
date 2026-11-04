@@ -1,0 +1,9 @@
+{
+  "scope": "已发表论文的原表数值；仅用来计算百分点差，不属于本文模拟输出。",
+  "citation": "Xie Y, Liang L, Li S, et al. Evaluating the Statistical Realism of LLM-generated Social Science Data. Proceedings of the National Academy of Sciences, 2026, 123(19): e2538145123. Table 1.",
+  "xie_table1": [
+    {"dataset": "美国现期人口调查年度社会与经济补充调查（1980年）", "before_pct": "25.8", "after_pct": "53.4"},
+    {"dataset": "美国人口普查（1980年）", "before_pct": "27.0", "after_pct": "44.2"},
+    {"dataset": "美国综合社会调查（2018年）", "before_pct": "32.5", "after_pct": "40.2"}
+  ]
+}

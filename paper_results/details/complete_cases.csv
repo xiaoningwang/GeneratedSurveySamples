@@ -1,0 +1,660 @@
+﻿profile_id,gender,age,education,marital_status,laborforce,group,agree,very_happy
+0,Female,75.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+1,Female,71.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+2,Male,81.0,High school,Married,Not in the labor force,Male_60plus,1,0
+4,Female,77.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+5,Female,51.0,College and above,Married,In the labor force,Female_under60,0,1
+6,Male,21.0,College and above,Single,Not in the labor force,Male_under60,0,0
+7,Female,56.0,High school,Married,In the labor force,Female_under60,1,1
+8,Female,53.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+10,Female,51.0,High school,Married,In the labor force,Female_under60,1,0
+11,Male,58.0,High school,Married,In the labor force,Male_under60,0,1
+12,Female,49.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+13,Male,24.0,High school,Single,In the labor force,Male_under60,0,0
+15,Male,60.0,College and above,Married,In the labor force,Male_60plus,0,0
+16,Female,54.0,High school,Married,Not in the labor force,Female_under60,0,0
+17,Female,43.0,College and above,Married,Not in the labor force,Female_under60,0,0
+19,Female,40.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+20,Male,57.0,High school,Divorced/widowed,Not in the labor force,Male_under60,0,1
+22,Female,70.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+24,Male,25.0,High school,Single,In the labor force,Male_under60,0,0
+25,Female,32.0,High school,Single,In the labor force,Female_under60,0,0
+27,Male,62.0,High school,Married,Not in the labor force,Male_60plus,0,0
+29,Female,60.0,High school,Married,Not in the labor force,Female_60plus,0,1
+30,Female,24.0,High school,Single,In the labor force,Female_under60,0,1
+33,Female,18.0,High school,Single,Not in the labor force,Female_under60,0,0
+34,Male,60.0,High school,Single,Not in the labor force,Male_60plus,0,0
+35,Female,32.0,College and above,Single,In the labor force,Female_under60,1,1
+37,Male,32.0,College and above,Single,In the labor force,Male_under60,0,0
+38,Male,56.0,High school,Single,In the labor force,Male_under60,0,0
+39,Female,80.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+40,Male,25.0,High school,Single,In the labor force,Male_under60,0,0
+41,Female,44.0,High school,Married,Not in the labor force,Female_under60,0,0
+42,Female,72.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+45,Male,50.0,College and above,Married,In the labor force,Male_under60,0,1
+47,Male,77.0,High school,Married,Not in the labor force,Male_60plus,0,1
+48,Female,57.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+49,Female,44.0,College and above,Married,In the labor force,Female_under60,0,0
+50,Female,29.0,College and above,Married,In the labor force,Female_under60,0,1
+51,Male,22.0,High school,Single,In the labor force,Male_under60,1,0
+52,Male,40.0,Less than high school,Married,In the labor force,Male_under60,1,1
+54,Female,59.0,High school,Married,In the labor force,Female_under60,0,0
+56,Female,28.0,High school,Single,In the labor force,Female_under60,0,0
+57,Female,49.0,College and above,Married,In the labor force,Female_under60,0,1
+59,Male,39.0,High school,Married,Not in the labor force,Male_under60,0,0
+61,Female,71.0,High school,Married,Not in the labor force,Female_60plus,1,0
+62,Male,29.0,College and above,Single,In the labor force,Male_under60,0,0
+63,Male,37.0,High school,Married,In the labor force,Male_under60,0,0
+65,Female,42.0,College and above,Single,In the labor force,Female_under60,0,0
+66,Male,88.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+68,Male,58.0,College and above,Married,In the labor force,Male_under60,0,0
+69,Male,64.0,College and above,Married,In the labor force,Male_60plus,0,0
+70,Male,44.0,College and above,Married,Not in the labor force,Male_under60,0,0
+72,Male,34.0,College and above,Married,Not in the labor force,Male_under60,0,1
+74,Male,32.0,High school,Divorced/widowed,In the labor force,Male_under60,1,0
+76,Female,63.0,College and above,Married,In the labor force,Female_60plus,0,1
+77,Male,26.0,High school,Single,In the labor force,Male_under60,1,0
+78,Female,44.0,College and above,Single,In the labor force,Female_under60,0,0
+79,Female,22.0,High school,Single,In the labor force,Female_under60,0,0
+80,Female,44.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+81,Female,42.0,College and above,Married,In the labor force,Female_under60,1,0
+82,Female,32.0,College and above,Married,In the labor force,Female_under60,0,0
+83,Male,89.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+88,Male,65.0,High school,Married,In the labor force,Male_60plus,0,0
+89,Female,61.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+90,Male,89.0,Less than high school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+92,Male,51.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+93,Female,29.0,College and above,Married,Not in the labor force,Female_under60,0,0
+94,Female,56.0,High school,Married,In the labor force,Female_under60,1,0
+95,Female,53.0,High school,Married,In the labor force,Female_under60,1,0
+96,Male,48.0,High school,Divorced/widowed,In the labor force,Male_under60,1,0
+97,Female,61.0,High school,Divorced/widowed,In the labor force,Female_60plus,1,1
+98,Female,28.0,College and above,Married,Not in the labor force,Female_under60,0,0
+99,Female,75.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+100,Female,40.0,College and above,Married,Not in the labor force,Female_under60,0,1
+101,Female,39.0,High school,Single,In the labor force,Female_under60,0,0
+103,Female,61.0,High school,Divorced/widowed,In the labor force,Female_60plus,0,0
+105,Male,65.0,College and above,Married,In the labor force,Male_60plus,0,1
+107,Male,51.0,College and above,Divorced/widowed,In the labor force,Male_under60,1,0
+109,Male,71.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+111,Female,39.0,College and above,Divorced/widowed,Not in the labor force,Female_under60,0,0
+112,Female,89.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,1,1
+113,Male,77.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+115,Female,39.0,College and above,Married,In the labor force,Female_under60,0,1
+118,Female,80.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+123,Female,23.0,College and above,Single,In the labor force,Female_under60,0,0
+124,Female,21.0,High school,Single,Not in the labor force,Female_under60,1,1
+125,Female,71.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+126,Male,60.0,College and above,Single,Not in the labor force,Male_60plus,0,0
+127,Female,70.0,High school,Married,Not in the labor force,Female_60plus,0,0
+128,Male,38.0,High school,Married,In the labor force,Male_under60,0,0
+129,Female,53.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+133,Male,69.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+135,Male,52.0,College and above,Single,Not in the labor force,Male_under60,1,1
+137,Female,78.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+138,Female,74.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+139,Female,30.0,College and above,Married,In the labor force,Female_under60,0,0
+140,Female,55.0,Less than high school,Married,In the labor force,Female_under60,1,0
+141,Male,47.0,High school,Divorced/widowed,In the labor force,Male_under60,0,0
+142,Female,20.0,College and above,Single,In the labor force,Female_under60,0,0
+143,Female,63.0,College and above,Single,Not in the labor force,Female_60plus,0,0
+144,Male,36.0,College and above,Married,In the labor force,Male_under60,0,1
+146,Female,63.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+147,Female,70.0,High school,Married,Not in the labor force,Female_60plus,0,0
+149,Male,56.0,College and above,Married,In the labor force,Male_under60,1,0
+150,Male,21.0,High school,Single,In the labor force,Male_under60,0,0
+151,Male,49.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,1
+152,Female,33.0,College and above,Married,Not in the labor force,Female_under60,1,1
+153,Female,75.0,High school,Married,In the labor force,Female_60plus,0,0
+155,Female,39.0,High school,Married,In the labor force,Female_under60,0,0
+156,Male,66.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+161,Male,64.0,College and above,Married,In the labor force,Male_60plus,0,0
+163,Female,70.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+165,Female,43.0,College and above,Single,In the labor force,Female_under60,0,0
+167,Female,39.0,College and above,Married,In the labor force,Female_under60,1,0
+168,Female,37.0,High school,Married,In the labor force,Female_under60,0,0
+169,Female,45.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+170,Male,33.0,High school,Single,In the labor force,Male_under60,0,0
+172,Female,60.0,College and above,Married,In the labor force,Female_60plus,0,0
+173,Female,31.0,College and above,Single,In the labor force,Female_under60,0,0
+174,Male,33.0,High school,Married,In the labor force,Male_under60,1,0
+175,Female,51.0,College and above,Single,In the labor force,Female_under60,0,0
+176,Female,41.0,High school,Married,In the labor force,Female_under60,0,0
+177,Female,55.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+178,Female,35.0,High school,Single,In the labor force,Female_under60,0,0
+180,Female,76.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+181,Female,49.0,College and above,Married,Not in the labor force,Female_under60,1,0
+182,Female,67.0,Less than high school,Single,In the labor force,Female_60plus,1,0
+183,Female,25.0,College and above,Married,In the labor force,Female_under60,1,0
+185,Female,60.0,College and above,Married,Not in the labor force,Female_60plus,1,1
+187,Male,38.0,High school,Single,In the labor force,Male_under60,1,0
+188,Male,46.0,College and above,Married,In the labor force,Male_under60,0,1
+189,Male,53.0,High school,Married,In the labor force,Male_under60,0,1
+190,Male,33.0,High school,Single,In the labor force,Male_under60,0,0
+191,Male,27.0,College and above,Married,In the labor force,Male_under60,0,1
+192,Female,61.0,College and above,Married,Not in the labor force,Female_60plus,0,1
+193,Male,78.0,College and above,Married,Not in the labor force,Male_60plus,0,1
+194,Male,31.0,High school,Married,In the labor force,Male_under60,0,0
+195,Female,51.0,College and above,Married,In the labor force,Female_under60,0,1
+196,Female,72.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+197,Female,29.0,College and above,Married,In the labor force,Female_under60,0,0
+199,Male,69.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,0,1
+201,Female,84.0,Less than high school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+202,Male,19.0,High school,Single,In the labor force,Male_under60,0,0
+204,Female,43.0,College and above,Married,In the labor force,Female_under60,0,1
+205,Female,53.0,College and above,Divorced/widowed,Not in the labor force,Female_under60,0,0
+206,Male,22.0,High school,Single,Not in the labor force,Male_under60,0,0
+207,Female,64.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+214,Male,75.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,0,0
+215,Female,35.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+216,Female,33.0,College and above,Married,In the labor force,Female_under60,0,0
+217,Female,77.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+218,Male,37.0,College and above,Married,In the labor force,Male_under60,0,1
+219,Female,70.0,High school,Married,In the labor force,Female_60plus,0,0
+223,Female,44.0,College and above,Married,Not in the labor force,Female_under60,0,0
+224,Female,67.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+226,Male,46.0,High school,Single,In the labor force,Male_under60,0,0
+227,Female,35.0,High school,Single,In the labor force,Female_under60,1,0
+231,Female,58.0,College and above,Divorced/widowed,Not in the labor force,Female_under60,0,0
+232,Female,33.0,High school,Single,In the labor force,Female_under60,0,0
+235,Female,80.0,College and above,Divorced/widowed,In the labor force,Female_60plus,1,0
+237,Female,18.0,High school,Single,Not in the labor force,Female_under60,0,0
+239,Female,69.0,College and above,Married,Not in the labor force,Female_60plus,0,1
+241,Female,61.0,High school,Married,Not in the labor force,Female_60plus,1,0
+242,Female,42.0,College and above,Single,In the labor force,Female_under60,0,0
+243,Female,29.0,College and above,Married,In the labor force,Female_under60,1,1
+244,Male,47.0,High school,Married,Not in the labor force,Male_under60,1,1
+245,Male,43.0,High school,Divorced/widowed,In the labor force,Male_under60,0,0
+249,Female,39.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+253,Male,82.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+255,Male,35.0,College and above,Single,Not in the labor force,Male_under60,0,0
+257,Male,37.0,High school,Married,In the labor force,Male_under60,0,0
+260,Female,71.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+262,Male,59.0,College and above,Divorced/widowed,Not in the labor force,Male_under60,0,0
+263,Female,32.0,College and above,Single,In the labor force,Female_under60,0,0
+264,Female,41.0,College and above,Single,In the labor force,Female_under60,0,0
+265,Female,20.0,College and above,Single,In the labor force,Female_under60,0,0
+267,Female,82.0,College and above,Married,Not in the labor force,Female_60plus,1,0
+268,Male,41.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+269,Female,43.0,College and above,Married,In the labor force,Female_under60,0,1
+270,Female,35.0,High school,Married,In the labor force,Female_under60,0,1
+271,Female,32.0,High school,Married,In the labor force,Female_under60,0,1
+272,Female,49.0,College and above,Married,In the labor force,Female_under60,0,0
+273,Female,42.0,High school,Married,In the labor force,Female_under60,0,0
+274,Male,24.0,College and above,Single,Not in the labor force,Male_under60,0,0
+275,Male,50.0,College and above,Married,In the labor force,Male_under60,0,0
+277,Male,71.0,College and above,Married,In the labor force,Male_60plus,1,1
+278,Female,71.0,High school,Married,Not in the labor force,Female_60plus,1,0
+280,Female,37.0,High school,Single,Not in the labor force,Female_under60,1,0
+281,Female,59.0,High school,Divorced/widowed,Not in the labor force,Female_under60,0,0
+282,Female,27.0,College and above,Single,In the labor force,Female_under60,1,0
+284,Female,63.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+287,Male,51.0,Less than high school,Married,In the labor force,Male_under60,1,0
+288,Female,49.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+290,Male,37.0,College and above,Single,In the labor force,Male_under60,0,0
+291,Male,71.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+293,Female,55.0,College and above,Married,In the labor force,Female_under60,0,0
+294,Female,43.0,High school,Divorced/widowed,Not in the labor force,Female_under60,1,1
+295,Female,62.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+296,Male,65.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+297,Male,65.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+299,Male,46.0,High school,Married,In the labor force,Male_under60,0,1
+300,Female,64.0,College and above,Married,In the labor force,Female_60plus,0,0
+302,Female,34.0,High school,Married,Not in the labor force,Female_under60,1,1
+305,Male,52.0,College and above,Divorced/widowed,Not in the labor force,Male_under60,1,0
+306,Female,77.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+307,Female,29.0,College and above,Single,In the labor force,Female_under60,0,1
+308,Female,51.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+309,Male,24.0,High school,Single,In the labor force,Male_under60,0,0
+310,Male,46.0,College and above,Married,In the labor force,Male_under60,0,1
+312,Female,54.0,College and above,Married,In the labor force,Female_under60,0,1
+313,Male,70.0,High school,Married,Not in the labor force,Male_60plus,0,0
+315,Female,44.0,College and above,Married,In the labor force,Female_under60,0,0
+316,Male,22.0,College and above,Single,In the labor force,Male_under60,0,0
+318,Female,73.0,High school,Married,Not in the labor force,Female_60plus,0,0
+319,Female,61.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+320,Female,56.0,College and above,Married,In the labor force,Female_under60,0,0
+322,Female,59.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,1
+324,Female,29.0,College and above,Single,In the labor force,Female_under60,0,0
+325,Female,60.0,College and above,Married,In the labor force,Female_60plus,0,1
+326,Male,37.0,College and above,Single,In the labor force,Male_under60,1,0
+327,Male,37.0,College and above,Married,In the labor force,Male_under60,0,0
+330,Male,47.0,High school,Married,In the labor force,Male_under60,0,1
+331,Female,52.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,1
+333,Female,68.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+334,Female,55.0,College and above,Married,In the labor force,Female_under60,0,1
+335,Female,26.0,High school,Single,In the labor force,Female_under60,1,0
+336,Male,42.0,High school,Married,In the labor force,Male_under60,0,1
+337,Female,45.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+338,Female,33.0,High school,Married,Not in the labor force,Female_under60,0,0
+339,Female,33.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+341,Female,42.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+343,Female,22.0,High school,Single,In the labor force,Female_under60,1,0
+345,Male,43.0,College and above,Single,In the labor force,Male_under60,1,0
+347,Female,45.0,College and above,Married,In the labor force,Female_under60,0,1
+348,Female,43.0,Less than high school,Single,Not in the labor force,Female_under60,1,0
+350,Male,70.0,Less than high school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+351,Female,83.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+352,Female,75.0,Less than high school,Single,Not in the labor force,Female_60plus,1,0
+353,Male,60.0,High school,Married,In the labor force,Male_60plus,1,0
+354,Female,36.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+355,Male,68.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+356,Male,27.0,College and above,Single,In the labor force,Male_under60,0,0
+358,Male,38.0,College and above,Married,In the labor force,Male_under60,0,0
+359,Female,53.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+360,Male,57.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+361,Female,33.0,High school,Married,Not in the labor force,Female_under60,1,1
+362,Female,40.0,High school,Married,In the labor force,Female_under60,0,0
+364,Female,53.0,High school,Married,In the labor force,Female_under60,1,0
+365,Female,24.0,College and above,Married,Not in the labor force,Female_under60,0,1
+366,Male,62.0,College and above,Divorced/widowed,In the labor force,Male_60plus,1,1
+368,Female,31.0,High school,Single,In the labor force,Female_under60,0,0
+371,Female,49.0,College and above,Married,In the labor force,Female_under60,0,1
+373,Male,46.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+374,Female,23.0,College and above,Married,In the labor force,Female_under60,0,0
+375,Male,53.0,High school,Married,In the labor force,Male_under60,0,0
+376,Female,50.0,College and above,Single,In the labor force,Female_under60,0,0
+377,Male,65.0,College and above,Married,Not in the labor force,Male_60plus,0,1
+378,Female,31.0,College and above,Single,In the labor force,Female_under60,0,0
+381,Female,40.0,High school,Divorced/widowed,In the labor force,Female_under60,1,0
+382,Male,46.0,College and above,Married,In the labor force,Male_under60,0,0
+385,Female,33.0,College and above,Single,In the labor force,Female_under60,0,0
+386,Male,27.0,College and above,Single,In the labor force,Male_under60,0,1
+387,Male,66.0,High school,Married,In the labor force,Male_60plus,0,1
+388,Male,43.0,College and above,Married,In the labor force,Male_under60,0,1
+389,Male,25.0,College and above,Single,In the labor force,Male_under60,0,0
+392,Male,63.0,High school,Married,In the labor force,Male_60plus,0,1
+394,Female,76.0,College and above,Married,Not in the labor force,Female_60plus,0,1
+395,Male,24.0,College and above,Single,Not in the labor force,Male_under60,0,0
+396,Female,28.0,College and above,Married,In the labor force,Female_under60,1,0
+397,Female,70.0,College and above,Married,In the labor force,Female_60plus,0,1
+399,Male,27.0,College and above,Single,In the labor force,Male_under60,0,1
+400,Female,76.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,1
+401,Female,62.0,College and above,Married,In the labor force,Female_60plus,0,1
+402,Female,43.0,College and above,Married,In the labor force,Female_under60,0,0
+404,Female,61.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+405,Female,39.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+406,Female,70.0,College and above,Single,In the labor force,Female_60plus,0,1
+407,Female,65.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+408,Male,30.0,College and above,Married,In the labor force,Male_under60,0,1
+409,Female,34.0,High school,Single,In the labor force,Female_under60,1,0
+410,Male,86.0,College and above,Married,Not in the labor force,Male_60plus,0,1
+412,Male,72.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,0,0
+413,Female,64.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+415,Female,28.0,College and above,Married,In the labor force,Female_under60,0,0
+417,Male,63.0,High school,Married,Not in the labor force,Male_60plus,0,0
+418,Male,34.0,High school,Single,In the labor force,Male_under60,0,0
+419,Female,53.0,College and above,Married,In the labor force,Female_under60,0,0
+420,Male,55.0,College and above,Married,In the labor force,Male_under60,0,0
+422,Female,34.0,High school,Married,Not in the labor force,Female_under60,0,0
+423,Female,41.0,College and above,Married,In the labor force,Female_under60,0,1
+424,Male,53.0,College and above,Married,In the labor force,Male_under60,0,0
+425,Male,65.0,High school,Married,In the labor force,Male_60plus,0,0
+426,Female,28.0,High school,Married,In the labor force,Female_under60,0,0
+427,Male,60.0,High school,Married,Not in the labor force,Male_60plus,1,0
+428,Male,63.0,High school,Single,In the labor force,Male_60plus,0,1
+431,Male,40.0,High school,Single,Not in the labor force,Male_under60,0,0
+432,Male,78.0,College and above,Married,In the labor force,Male_60plus,0,1
+434,Male,60.0,High school,Married,In the labor force,Male_60plus,0,0
+435,Female,23.0,Less than high school,Single,In the labor force,Female_under60,0,0
+436,Male,64.0,Less than high school,Single,Not in the labor force,Male_60plus,0,0
+437,Male,28.0,High school,Single,In the labor force,Male_under60,1,1
+439,Male,40.0,High school,Married,In the labor force,Male_under60,1,1
+440,Female,36.0,High school,Single,Not in the labor force,Female_under60,0,0
+441,Female,43.0,College and above,Married,Not in the labor force,Female_under60,1,0
+445,Male,77.0,Less than high school,Married,Not in the labor force,Male_60plus,0,1
+446,Male,44.0,College and above,Single,In the labor force,Male_under60,0,0
+450,Male,44.0,High school,Divorced/widowed,Not in the labor force,Male_under60,0,0
+451,Female,28.0,College and above,Single,Not in the labor force,Female_under60,0,1
+452,Female,60.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+453,Male,65.0,College and above,Married,In the labor force,Male_60plus,1,1
+455,Female,60.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+456,Female,25.0,High school,Single,Not in the labor force,Female_under60,0,1
+458,Male,20.0,College and above,Single,In the labor force,Male_under60,1,0
+459,Female,38.0,College and above,Married,Not in the labor force,Female_under60,0,0
+460,Female,65.0,College and above,Married,In the labor force,Female_60plus,0,0
+461,Female,34.0,High school,Married,In the labor force,Female_under60,0,1
+462,Female,58.0,College and above,Divorced/widowed,Not in the labor force,Female_under60,0,0
+463,Female,60.0,High school,Divorced/widowed,In the labor force,Female_60plus,1,0
+464,Male,50.0,High school,Married,In the labor force,Male_under60,0,0
+465,Male,73.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+466,Female,57.0,High school,Married,In the labor force,Female_under60,0,1
+467,Male,45.0,College and above,Married,In the labor force,Male_under60,0,0
+472,Male,39.0,College and above,Single,Not in the labor force,Male_under60,0,0
+474,Female,28.0,College and above,Married,Not in the labor force,Female_under60,1,0
+478,Male,43.0,College and above,Married,In the labor force,Male_under60,0,1
+479,Male,41.0,College and above,Divorced/widowed,In the labor force,Male_under60,1,0
+480,Female,70.0,College and above,Married,Not in the labor force,Female_60plus,0,1
+481,Male,57.0,College and above,Married,In the labor force,Male_under60,0,1
+483,Male,83.0,High school,Married,Not in the labor force,Male_60plus,1,1
+485,Female,76.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+486,Female,77.0,College and above,Married,In the labor force,Female_60plus,1,0
+487,Male,69.0,College and above,Single,In the labor force,Male_60plus,0,0
+488,Female,70.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+490,Female,55.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+491,Male,55.0,High school,Single,In the labor force,Male_under60,1,0
+493,Male,59.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+494,Male,33.0,College and above,Married,In the labor force,Male_under60,0,1
+495,Female,39.0,High school,Married,In the labor force,Female_under60,0,0
+496,Male,74.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+497,Male,41.0,High school,Married,Not in the labor force,Male_under60,0,1
+498,Male,79.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+500,Male,68.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+501,Male,51.0,High school,Married,In the labor force,Male_under60,0,1
+504,Female,50.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+505,Male,21.0,College and above,Single,In the labor force,Male_under60,0,0
+506,Female,56.0,College and above,Married,Not in the labor force,Female_under60,0,0
+507,Male,73.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+508,Female,67.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+509,Male,51.0,High school,Married,In the labor force,Male_under60,0,0
+511,Female,59.0,College and above,Married,Not in the labor force,Female_under60,0,1
+512,Female,47.0,High school,Married,In the labor force,Female_under60,0,1
+513,Female,74.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+515,Male,37.0,High school,Single,In the labor force,Male_under60,0,1
+516,Female,86.0,High school,Divorced/widowed,In the labor force,Female_60plus,1,1
+517,Female,46.0,College and above,Married,In the labor force,Female_under60,0,1
+518,Male,30.0,High school,Single,Not in the labor force,Male_under60,0,0
+520,Male,29.0,College and above,Single,In the labor force,Male_under60,1,1
+521,Male,33.0,College and above,Single,In the labor force,Male_under60,0,0
+522,Female,30.0,Less than high school,Married,Not in the labor force,Female_under60,1,0
+523,Female,46.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+524,Male,29.0,College and above,Single,In the labor force,Male_under60,1,0
+525,Female,35.0,High school,Married,Not in the labor force,Female_under60,1,0
+528,Male,54.0,High school,Divorced/widowed,In the labor force,Male_under60,0,1
+529,Female,24.0,Less than high school,Single,Not in the labor force,Female_under60,0,0
+530,Female,40.0,College and above,Married,In the labor force,Female_under60,0,1
+531,Male,54.0,College and above,Married,In the labor force,Male_under60,0,1
+535,Male,42.0,High school,Married,In the labor force,Male_under60,0,0
+538,Male,61.0,College and above,Married,In the labor force,Male_60plus,0,1
+539,Male,45.0,College and above,Married,Not in the labor force,Male_under60,0,0
+540,Male,53.0,College and above,Married,In the labor force,Male_under60,0,1
+541,Male,48.0,High school,Married,In the labor force,Male_under60,0,0
+543,Male,60.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+544,Male,65.0,High school,Married,In the labor force,Male_60plus,0,0
+545,Male,25.0,High school,Single,In the labor force,Male_under60,0,0
+546,Male,25.0,High school,Married,In the labor force,Male_under60,0,0
+547,Female,32.0,College and above,Single,In the labor force,Female_under60,0,0
+548,Female,75.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+550,Male,51.0,College and above,Married,In the labor force,Male_under60,0,0
+552,Female,24.0,College and above,Single,In the labor force,Female_under60,0,1
+553,Male,60.0,High school,Single,In the labor force,Male_60plus,0,0
+554,Female,66.0,College and above,Married,Not in the labor force,Female_60plus,1,1
+555,Female,60.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+558,Female,56.0,High school,Divorced/widowed,In the labor force,Female_under60,1,0
+559,Female,46.0,College and above,Married,In the labor force,Female_under60,0,0
+561,Female,62.0,Less than high school,Divorced/widowed,In the labor force,Female_60plus,0,0
+562,Male,76.0,College and above,Married,Not in the labor force,Male_60plus,1,1
+563,Female,36.0,College and above,Single,In the labor force,Female_under60,0,0
+564,Male,44.0,College and above,Married,In the labor force,Male_under60,0,0
+565,Male,60.0,College and above,Single,In the labor force,Male_60plus,0,0
+567,Female,61.0,High school,Married,In the labor force,Female_60plus,0,0
+568,Female,34.0,College and above,Single,In the labor force,Female_under60,0,0
+569,Female,73.0,College and above,Married,In the labor force,Female_60plus,1,1
+570,Male,54.0,High school,Divorced/widowed,Not in the labor force,Male_under60,0,0
+572,Male,35.0,College and above,Married,In the labor force,Male_under60,0,1
+573,Female,29.0,College and above,Single,Not in the labor force,Female_under60,0,0
+576,Female,65.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+577,Female,21.0,College and above,Single,In the labor force,Female_under60,0,1
+578,Female,63.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+580,Female,44.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+581,Male,47.0,High school,Married,In the labor force,Male_under60,0,0
+582,Female,53.0,College and above,Married,In the labor force,Female_under60,0,0
+586,Female,57.0,College and above,Married,In the labor force,Female_under60,1,1
+587,Female,24.0,High school,Single,In the labor force,Female_under60,0,0
+589,Female,29.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+591,Female,40.0,College and above,Single,Not in the labor force,Female_under60,1,0
+594,Female,35.0,College and above,Married,In the labor force,Female_under60,0,0
+595,Male,57.0,High school,Divorced/widowed,In the labor force,Male_under60,1,1
+597,Male,37.0,College and above,Married,In the labor force,Male_under60,0,0
+598,Female,64.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+599,Female,64.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+600,Male,42.0,College and above,Married,In the labor force,Male_under60,1,0
+601,Female,18.0,High school,Single,Not in the labor force,Female_under60,0,1
+603,Female,50.0,High school,Divorced/widowed,Not in the labor force,Female_under60,0,0
+604,Female,63.0,High school,Married,In the labor force,Female_60plus,0,0
+608,Female,32.0,College and above,Married,In the labor force,Female_under60,1,0
+609,Female,69.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+615,Male,25.0,College and above,Single,In the labor force,Male_under60,0,0
+616,Male,44.0,College and above,Married,In the labor force,Male_under60,1,1
+618,Male,70.0,High school,Married,In the labor force,Male_60plus,0,1
+620,Female,18.0,High school,Single,In the labor force,Female_under60,0,0
+621,Male,72.0,High school,Married,Not in the labor force,Male_60plus,0,0
+622,Female,45.0,High school,Divorced/widowed,In the labor force,Female_under60,1,0
+623,Male,49.0,College and above,Divorced/widowed,In the labor force,Male_under60,1,0
+624,Male,43.0,College and above,Single,Not in the labor force,Male_under60,0,0
+625,Female,28.0,High school,Married,In the labor force,Female_under60,1,0
+626,Female,40.0,High school,Married,Not in the labor force,Female_under60,0,0
+627,Male,26.0,High school,Single,In the labor force,Male_under60,1,1
+628,Male,57.0,High school,Married,Not in the labor force,Male_under60,0,0
+629,Female,26.0,High school,Single,In the labor force,Female_under60,0,0
+630,Female,66.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+631,Female,48.0,College and above,Married,In the labor force,Female_under60,0,0
+632,Female,41.0,High school,Married,In the labor force,Female_under60,0,0
+635,Female,86.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+637,Male,66.0,College and above,Married,In the labor force,Male_60plus,0,1
+638,Female,37.0,High school,Single,Not in the labor force,Female_under60,0,0
+639,Male,56.0,College and above,Married,In the labor force,Male_under60,0,1
+640,Male,46.0,Less than high school,Single,Not in the labor force,Male_under60,1,0
+642,Female,34.0,College and above,Married,In the labor force,Female_under60,0,1
+648,Female,28.0,College and above,Divorced/widowed,Not in the labor force,Female_under60,0,0
+649,Female,40.0,College and above,Married,In the labor force,Female_under60,0,1
+650,Female,35.0,College and above,Married,In the labor force,Female_under60,0,1
+651,Male,21.0,College and above,Single,Not in the labor force,Male_under60,0,0
+652,Female,26.0,College and above,Single,In the labor force,Female_under60,0,0
+654,Female,68.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+655,Male,22.0,College and above,Married,In the labor force,Male_under60,0,0
+656,Male,39.0,College and above,Married,Not in the labor force,Male_under60,0,0
+658,Male,53.0,College and above,Single,In the labor force,Male_under60,0,0
+659,Male,51.0,College and above,Married,In the labor force,Male_under60,0,0
+660,Female,42.0,High school,Married,In the labor force,Female_under60,0,1
+661,Male,37.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,1
+662,Male,36.0,College and above,Married,In the labor force,Male_under60,1,0
+663,Female,25.0,College and above,Married,In the labor force,Female_under60,0,1
+664,Female,64.0,High school,Married,Not in the labor force,Female_60plus,1,0
+666,Male,29.0,College and above,Married,In the labor force,Male_under60,0,0
+667,Female,60.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+668,Female,32.0,College and above,Married,In the labor force,Female_under60,0,0
+669,Female,37.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+670,Male,39.0,College and above,Married,In the labor force,Male_under60,1,1
+671,Male,72.0,High school,Married,In the labor force,Male_60plus,0,0
+672,Male,49.0,High school,Married,Not in the labor force,Male_under60,0,1
+673,Male,89.0,High school,Married,Not in the labor force,Male_60plus,1,0
+674,Female,89.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,1
+675,Male,34.0,High school,Married,In the labor force,Male_under60,0,1
+676,Female,25.0,High school,Single,Not in the labor force,Female_under60,0,0
+678,Female,45.0,High school,Divorced/widowed,Not in the labor force,Female_under60,0,0
+679,Male,66.0,College and above,Single,Not in the labor force,Male_60plus,0,0
+680,Female,41.0,College and above,Married,Not in the labor force,Female_under60,0,0
+682,Male,33.0,High school,Single,In the labor force,Male_under60,0,1
+685,Female,53.0,High school,Single,Not in the labor force,Female_under60,0,0
+691,Female,23.0,College and above,Single,In the labor force,Female_under60,0,0
+693,Female,39.0,High school,Divorced/widowed,In the labor force,Female_under60,1,1
+696,Female,27.0,Less than high school,Single,In the labor force,Female_under60,0,0
+698,Female,44.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+699,Female,68.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+700,Female,25.0,College and above,Single,In the labor force,Female_under60,0,0
+701,Female,38.0,College and above,Married,In the labor force,Female_under60,1,1
+702,Male,58.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,1
+703,Female,34.0,College and above,Single,In the labor force,Female_under60,0,0
+706,Female,80.0,High school,Married,Not in the labor force,Female_60plus,1,0
+707,Female,38.0,High school,Married,Not in the labor force,Female_under60,1,0
+708,Female,60.0,High school,Divorced/widowed,In the labor force,Female_60plus,0,0
+709,Male,76.0,College and above,Married,Not in the labor force,Male_60plus,0,1
+710,Male,41.0,High school,Married,In the labor force,Male_under60,0,1
+711,Female,46.0,High school,Divorced/widowed,In the labor force,Female_under60,0,0
+713,Male,63.0,High school,Divorced/widowed,In the labor force,Male_60plus,0,1
+715,Male,73.0,College and above,Married,In the labor force,Male_60plus,0,1
+716,Female,48.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+720,Female,66.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+721,Female,87.0,High school,Married,Not in the labor force,Female_60plus,1,0
+722,Female,88.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+724,Female,58.0,College and above,Married,Not in the labor force,Female_under60,0,0
+726,Female,19.0,High school,Single,In the labor force,Female_under60,0,0
+727,Female,59.0,College and above,Married,Not in the labor force,Female_under60,0,1
+728,Female,74.0,High school,Married,Not in the labor force,Female_60plus,0,0
+730,Female,30.0,High school,Divorced/widowed,Not in the labor force,Female_under60,0,0
+731,Female,64.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,0
+732,Female,75.0,High school,Divorced/widowed,In the labor force,Female_60plus,0,0
+733,Female,30.0,College and above,Married,Not in the labor force,Female_under60,0,0
+735,Female,28.0,College and above,Married,In the labor force,Female_under60,0,0
+737,Male,31.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+738,Male,23.0,College and above,Single,In the labor force,Male_under60,0,1
+739,Female,28.0,College and above,Married,Not in the labor force,Female_under60,1,1
+740,Male,71.0,College and above,Married,Not in the labor force,Male_60plus,1,1
+744,Female,63.0,High school,Divorced/widowed,In the labor force,Female_60plus,0,0
+746,Female,77.0,College and above,Married,In the labor force,Female_60plus,0,0
+748,Female,41.0,Less than high school,Married,Not in the labor force,Female_under60,1,0
+750,Male,30.0,College and above,Married,In the labor force,Male_under60,0,1
+755,Male,44.0,College and above,Divorced/widowed,In the labor force,Male_under60,1,1
+756,Male,66.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,0,1
+757,Female,35.0,College and above,Married,In the labor force,Female_under60,0,1
+760,Male,27.0,High school,Married,In the labor force,Male_under60,1,1
+761,Female,55.0,College and above,Divorced/widowed,In the labor force,Female_under60,1,0
+762,Female,69.0,High school,Married,Not in the labor force,Female_60plus,0,0
+763,Female,46.0,College and above,Married,In the labor force,Female_under60,0,1
+764,Male,56.0,High school,Divorced/widowed,In the labor force,Male_under60,0,0
+765,Male,47.0,High school,Married,In the labor force,Male_under60,0,0
+766,Male,54.0,High school,Married,In the labor force,Male_under60,0,1
+769,Male,23.0,High school,Single,In the labor force,Male_under60,1,0
+771,Male,53.0,College and above,Married,Not in the labor force,Male_under60,1,1
+772,Female,40.0,College and above,Married,Not in the labor force,Female_under60,1,0
+773,Male,42.0,High school,Married,In the labor force,Male_under60,0,0
+777,Female,34.0,High school,Single,In the labor force,Female_under60,0,0
+778,Male,34.0,Less than high school,Married,In the labor force,Male_under60,0,0
+780,Female,78.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+783,Female,50.0,College and above,Single,In the labor force,Female_under60,0,0
+786,Male,26.0,High school,Single,In the labor force,Male_under60,0,1
+787,Male,57.0,High school,Married,Not in the labor force,Male_under60,0,0
+788,Male,25.0,High school,Single,In the labor force,Male_under60,0,0
+789,Female,47.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+790,Male,62.0,College and above,Divorced/widowed,In the labor force,Male_60plus,1,0
+791,Male,83.0,High school,Married,Not in the labor force,Male_60plus,0,1
+792,Female,39.0,High school,Married,Not in the labor force,Female_under60,0,0
+794,Male,66.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+795,Male,38.0,High school,Single,In the labor force,Male_under60,0,0
+796,Male,63.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,0,0
+797,Male,69.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+799,Female,67.0,College and above,Married,Not in the labor force,Female_60plus,0,0
+800,Female,45.0,Less than high school,Divorced/widowed,In the labor force,Female_under60,1,0
+804,Female,43.0,College and above,Married,In the labor force,Female_under60,0,0
+805,Male,30.0,High school,Married,In the labor force,Male_under60,0,0
+806,Male,47.0,High school,Married,In the labor force,Male_under60,0,0
+807,Male,57.0,College and above,Divorced/widowed,In the labor force,Male_under60,1,0
+808,Female,41.0,High school,Divorced/widowed,Not in the labor force,Female_under60,1,1
+809,Male,70.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+810,Male,37.0,College and above,Married,In the labor force,Male_under60,0,0
+815,Male,48.0,High school,Married,Not in the labor force,Male_under60,0,0
+816,Female,54.0,College and above,Married,In the labor force,Female_under60,0,0
+819,Male,62.0,High school,Single,Not in the labor force,Male_60plus,1,0
+820,Female,35.0,College and above,Single,Not in the labor force,Female_under60,0,0
+821,Male,73.0,College and above,Married,Not in the labor force,Male_60plus,1,0
+822,Female,47.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,1
+824,Male,61.0,High school,Single,Not in the labor force,Male_60plus,0,0
+826,Female,42.0,Less than high school,Divorced/widowed,In the labor force,Female_under60,1,1
+829,Male,81.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,0,1
+831,Female,66.0,High school,Single,Not in the labor force,Female_60plus,1,0
+832,Male,57.0,College and above,Married,In the labor force,Male_under60,0,1
+835,Female,55.0,High school,Single,In the labor force,Female_under60,0,1
+836,Male,56.0,High school,Single,In the labor force,Male_under60,0,0
+837,Female,57.0,High school,Married,Not in the labor force,Female_under60,1,0
+838,Female,89.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+839,Male,44.0,College and above,Married,In the labor force,Male_under60,0,1
+841,Female,35.0,High school,Single,Not in the labor force,Female_under60,0,0
+842,Female,43.0,College and above,Married,In the labor force,Female_under60,0,1
+844,Male,61.0,College and above,Divorced/widowed,In the labor force,Male_60plus,1,0
+845,Male,63.0,College and above,Married,Not in the labor force,Male_60plus,1,0
+846,Male,22.0,College and above,Single,Not in the labor force,Male_under60,0,0
+847,Female,34.0,College and above,Married,In the labor force,Female_under60,1,0
+848,Female,66.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
+851,Female,54.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+852,Male,52.0,College and above,Married,In the labor force,Male_under60,1,1
+853,Male,45.0,College and above,Married,In the labor force,Male_under60,0,0
+854,Male,54.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+855,Female,30.0,College and above,Single,Not in the labor force,Female_under60,0,0
+856,Male,55.0,College and above,Married,In the labor force,Male_under60,1,1
+857,Male,27.0,College and above,Married,In the labor force,Male_under60,0,0
+858,Male,70.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,0,1
+862,Male,52.0,College and above,Married,In the labor force,Male_under60,1,0
+863,Female,38.0,High school,Single,In the labor force,Female_under60,0,0
+865,Male,46.0,High school,Single,In the labor force,Male_under60,0,0
+868,Male,34.0,College and above,Married,In the labor force,Male_under60,0,0
+870,Male,42.0,College and above,Married,In the labor force,Male_under60,0,1
+874,Female,56.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,1
+875,Male,52.0,College and above,Single,In the labor force,Male_under60,0,0
+876,Male,19.0,College and above,Single,Not in the labor force,Male_under60,0,0
+877,Female,18.0,College and above,Single,In the labor force,Female_under60,0,0
+878,Female,27.0,College and above,Single,In the labor force,Female_under60,0,0
+879,Male,19.0,High school,Single,Not in the labor force,Male_under60,0,0
+881,Male,48.0,College and above,Married,In the labor force,Male_under60,0,0
+883,Male,64.0,College and above,Married,Not in the labor force,Male_60plus,1,0
+884,Female,22.0,College and above,Single,In the labor force,Female_under60,0,0
+885,Female,58.0,College and above,Married,In the labor force,Female_under60,0,0
+886,Male,61.0,College and above,Married,In the labor force,Male_60plus,1,1
+887,Female,70.0,College and above,Married,Not in the labor force,Female_60plus,0,1
+888,Female,22.0,High school,Single,In the labor force,Female_under60,0,0
+891,Female,39.0,College and above,Married,In the labor force,Female_under60,0,1
+892,Male,32.0,College and above,Married,In the labor force,Male_under60,0,1
+893,Female,65.0,College and above,Divorced/widowed,In the labor force,Female_60plus,0,1
+894,Male,69.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+898,Female,63.0,College and above,Married,In the labor force,Female_60plus,0,0
+899,Female,29.0,College and above,Married,In the labor force,Female_under60,0,0
+901,Female,72.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+902,Male,77.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+905,Female,31.0,College and above,Single,In the labor force,Female_under60,0,0
+910,Female,48.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+911,Male,27.0,College and above,Single,In the labor force,Male_under60,0,0
+912,Female,53.0,High school,Single,Not in the labor force,Female_under60,0,0
+913,Female,30.0,College and above,Single,In the labor force,Female_under60,0,0
+914,Male,25.0,College and above,Single,In the labor force,Male_under60,0,1
+915,Female,58.0,College and above,Divorced/widowed,In the labor force,Female_under60,0,0
+916,Female,36.0,High school,Married,In the labor force,Female_under60,1,1
+917,Male,57.0,High school,Divorced/widowed,In the labor force,Male_under60,0,1
+918,Female,40.0,College and above,Married,In the labor force,Female_under60,0,1
+919,Male,36.0,College and above,Single,In the labor force,Male_under60,0,0
+921,Female,56.0,High school,Single,Not in the labor force,Female_under60,0,0
+923,Male,51.0,College and above,Single,In the labor force,Male_under60,0,0
+924,Female,52.0,College and above,Married,In the labor force,Female_under60,0,0
+925,Male,46.0,College and above,Married,In the labor force,Male_under60,1,0
+926,Female,80.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,0,0
+928,Female,48.0,Less than high school,Married,In the labor force,Female_under60,0,1
+931,Female,27.0,High school,Single,Not in the labor force,Female_under60,1,0
+933,Male,21.0,College and above,Single,Not in the labor force,Male_under60,0,0
+934,Male,80.0,High school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+937,Male,51.0,High school,Married,In the labor force,Male_under60,0,1
+942,Male,51.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+943,Male,78.0,High school,Married,In the labor force,Male_60plus,1,0
+944,Female,21.0,High school,Married,In the labor force,Female_under60,0,0
+945,Male,69.0,College and above,Divorced/widowed,Not in the labor force,Male_60plus,0,0
+946,Male,33.0,College and above,Single,Not in the labor force,Male_under60,0,0
+948,Male,77.0,College and above,Married,Not in the labor force,Male_60plus,0,0
+949,Male,70.0,College and above,Married,Not in the labor force,Male_60plus,1,1
+950,Male,70.0,College and above,Divorced/widowed,In the labor force,Male_60plus,0,1
+955,Female,84.0,College and above,Divorced/widowed,Not in the labor force,Female_60plus,0,1
+956,Female,49.0,College and above,Single,In the labor force,Female_under60,0,0
+957,Male,19.0,High school,Single,In the labor force,Male_under60,1,0
+958,Female,75.0,High school,Divorced/widowed,In the labor force,Female_60plus,0,0
+959,Female,66.0,College and above,Married,In the labor force,Female_60plus,1,0
+960,Female,39.0,College and above,Single,In the labor force,Female_under60,0,0
+961,Male,62.0,High school,Married,In the labor force,Male_60plus,0,0
+965,Male,68.0,High school,Married,Not in the labor force,Male_60plus,0,0
+966,Female,28.0,College and above,Single,In the labor force,Female_under60,0,0
+967,Female,36.0,High school,Single,In the labor force,Female_under60,0,0
+969,Female,53.0,Less than high school,Married,Not in the labor force,Female_under60,0,1
+972,Female,48.0,College and above,Married,In the labor force,Female_under60,0,0
+975,Male,86.0,High school,Married,Not in the labor force,Male_60plus,0,1
+976,Female,36.0,High school,Married,Not in the labor force,Female_under60,0,0
+977,Male,74.0,High school,Married,Not in the labor force,Male_60plus,1,0
+978,Male,33.0,High school,Single,Not in the labor force,Male_under60,0,0
+981,Female,40.0,High school,Married,Not in the labor force,Female_under60,1,1
+984,Female,61.0,High school,Married,In the labor force,Female_60plus,0,0
+985,Male,57.0,High school,Single,In the labor force,Male_under60,0,0
+986,Male,33.0,College and above,Married,Not in the labor force,Male_under60,0,1
+987,Male,27.0,College and above,Married,In the labor force,Male_under60,0,0
+988,Male,48.0,College and above,Divorced/widowed,In the labor force,Male_under60,0,0
+989,Female,57.0,High school,Married,In the labor force,Female_under60,0,0
+990,Male,19.0,High school,Single,Not in the labor force,Male_under60,1,0
+992,Male,63.0,High school,Single,Not in the labor force,Male_60plus,0,0
+995,Male,70.0,High school,Married,Not in the labor force,Male_60plus,0,1
+997,Male,66.0,Less than high school,Divorced/widowed,Not in the labor force,Male_60plus,1,0
+998,Female,27.0,High school,Married,Not in the labor force,Female_under60,0,0
+999,Female,81.0,High school,Divorced/widowed,Not in the labor force,Female_60plus,1,0
