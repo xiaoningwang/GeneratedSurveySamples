@@ -1,0 +1,8 @@
+test_changed_input_is_rejected (test_reproducibility.ReproducibilityTests.test_changed_input_is_rejected) ... ok
+test_changed_paper_cell_is_rejected (test_reproducibility.ReproducibilityTests.test_changed_paper_cell_is_rejected) ... ok
+test_original_windows_prompt_and_invalid_response (test_reproducibility.ReproducibilityTests.test_original_windows_prompt_and_invalid_response) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.044s
+
+OK

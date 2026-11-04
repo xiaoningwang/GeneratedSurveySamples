@@ -15,7 +15,7 @@ plt.rcParams.update({'font.family':font.get_name(),'axes.unicode_minus':False,'f
 g=pd.read_csv(OUT/'group_gap_theory.csv')
 fig,ax=plt.subplots(figsize=(6.3,2.6));x=range(4)
 ax.axhline(0,color='gray',lw=.6)
-ax.plot(x,g.true_gap,'ko-',label='真实群体差值');ax.plot(x,g.generated_gap,'ks--',label='合成群体差值')
+ax.plot(x,g.true_gap,'ko-',label='真实群体差值');ax.plot(x,g.generated_gap,'ks--',label='生成群体差值')
 ax.set_xticks(list(x),g.population);ax.set_ylabel('群体四减群体一的均值差')
 ax.legend(frameon=False);fig.tight_layout();fig.savefig(OUT/'group_gap.png',dpi=300);plt.close(fig)
 

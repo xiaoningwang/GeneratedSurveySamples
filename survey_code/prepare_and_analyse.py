@@ -20,6 +20,9 @@ SOURCE_SHA256='7b86f23d24b3355eb2094ccee1a5693e8950d55fef6db875d3c4bdb82e1232dc'
 
 def prepare():
     OUT.mkdir(parents=True,exist_ok=True)
+    actual=hashlib.sha256((DATA/'sampled_gss.csv').read_bytes()).hexdigest()
+    if actual!=SOURCE_SHA256:
+        raise ValueError('sampled_gss.csv differs from the original source checksum.')
     raw=pd.read_csv(DATA/'sampled_gss.csv')
     df=raw.dropna(subset=FEATURES+['gender_role_attitude','happy']).copy()
     df['agree']=(df.gender_role_attitude=='Agree').astype(int)
@@ -100,7 +103,7 @@ def mechanisms(R=2000):
             pp=f[3]+e3-f[0]-e0;ps=np.sqrt(ev3/n3+ev0/n0)
         syn=gh[:,3]-gh[:,0]
         ss=np.sqrt(gh[:,3]*(1-gh[:,3])/(5000*q[3]-1)+gh[:,0]*(1-gh[:,0])/(5000*q[0]-1))
-        for label,est,se,valid in [('真实群体差值',real,rs,ok),('合成群体差值',syn,ss,np.ones(R,bool)),('群体残差校正',pp,ps,ok)]:
+        for label,est,se,valid in [('真实群体差值',real,rs,ok),('生成群体差值',syn,ss,np.ones(R,bool)),('群体残差校正',pp,ps,ok)]:
             vals=est[valid];errs=vals-gap
             cp=np.sum(valid&(abs(est-gap)<=1.96*se))/R # failures count as noncoverage
             rows.append({'population':name,'method':label,'true_gap':gap,'bias_on_valid':errs.mean(),

@@ -1,0 +1,21 @@
+{
+  "algorithm": "sha256",
+  "source_commit": "f877822ea165bb20d20c50a80ea0f973284726df",
+  "sha256": {
+    "survey_data/api_metadata.json": "e82c11fcc4b9b0e0ea60e6724c606263d3dd99b0da8f8313f0b851fa9844b0a6",
+    "survey_data/api_raw/main_api_plan.json": "e82c11fcc4b9b0e0ea60e6724c606263d3dd99b0da8f8313f0b851fa9844b0a6",
+    "survey_data/api_raw/main_api_run_status.json": "36fb5b7ed70a0df32f248cb61fe20877cf91305ce6cd058f211dabc29a00652b",
+    "survey_data/api_raw/original_responses.zip": "279e3cd4f8c8e6db6df33f4802febf0dee6ac8a07fb177bfbfdaceab23f038d0",
+    "survey_data/api_raw/pilot_api_plan.json": "23a8f393998d319c8213da4e473f9f7090745cd71c0c5f292c1b2037a9c10c62",
+    "survey_data/api_raw/pilot_api_run_status.json": "b07f37414ab9143e52166c52676e315263a7a55aec4fb7cfa75bc626d9256634",
+    "survey_data/api_raw/response_index.json": "79890f0ce1b06693c3dd8bb4160b197f8f93938c662039b9b6d0b7d1dde9dd7b",
+    "survey_data/api_records.csv": "fcb821b826e3178e2ea7e6d5e39d3d1370f0147c4aa6106436cfaba3185faf23",
+    "survey_data/benchmark.csv": "ac23b15046008d0129edbfff7869ba9040444ddb958e6266898bc056df68a9c9",
+    "survey_data/paper_reference.json": "ec2b656cc6a71e610a714ba1567ae4f56fd6b3eeab77c0f3f3ef856b3926596d",
+    "survey_data/published_inputs.json": "224ebce75603e7edf9e5f44535ca97698a31a6dd2b5b5ae173a642e214dba78f",
+    "survey_data/sampled_gss.csv": "7b86f23d24b3355eb2094ccee1a5693e8950d55fef6db875d3c4bdb82e1232dc",
+    "survey_data/source_notes/GSS_preprocessing_author.py": "073a4c34bc4e95d8b438432ceb8d1bd7349cb806a7b71bc172f63600d651e3d4",
+    "survey_data/source_notes/gss_code_config_author.yaml": "e996dca3f8013ffbe49e2017b5e5e4e70ec6ca478495aafcea596e0602952522",
+    "survey_data/training.csv": "e96c62e4538844bb649719cc44b84cf071393dc4dc74e7160b73698739fc448f"
+  }
+}

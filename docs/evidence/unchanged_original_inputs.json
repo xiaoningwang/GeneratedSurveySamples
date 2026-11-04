@@ -1,0 +1,11 @@
+{
+  "source_commit": "f877822ea165bb20d20c50a80ea0f973284726df",
+  "sha256": {
+    "survey_data/sampled_gss.csv": "7b86f23d24b3355eb2094ccee1a5693e8950d55fef6db875d3c4bdb82e1232dc",
+    "survey_data/training.csv": "e96c62e4538844bb649719cc44b84cf071393dc4dc74e7160b73698739fc448f",
+    "survey_data/benchmark.csv": "ac23b15046008d0129edbfff7869ba9040444ddb958e6266898bc056df68a9c9",
+    "survey_data/api_records.csv": "fcb821b826e3178e2ea7e6d5e39d3d1370f0147c4aa6106436cfaba3185faf23",
+    "survey_data/api_metadata.json": "e82c11fcc4b9b0e0ea60e6724c606263d3dd99b0da8f8313f0b851fa9844b0a6",
+    "survey_data/published_inputs.json": "224ebce75603e7edf9e5f44535ca97698a31a6dd2b5b5ae173a642e214dba78f"
+  }
+}

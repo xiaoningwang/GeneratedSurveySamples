@@ -15,6 +15,8 @@
 | --- | --- |
 | [`survey_code/`](survey_code/) | 数据整理、统计模型、机制模拟、模型回答评估及图表导出 |
 | [`survey_data/`](survey_data/) | 固定样本、已保存的模型回答、实验元数据及来源说明 |
+| [`survey_data/api_raw/`](survey_data/api_raw/) | 原始正式响应8,708条、试运行32条、请求计划与结束日志 |
+| [`docs/`](docs/) | 数据来源、变量字典、随机过程、图表映射、公式推导与核对记录 |
 | [`paper_results/`](paper_results/) | 论文表 1–14、图 1–5 和正文引用数值 |
 | [`paper_results/details/`](paper_results/details/) | 完整精度的中间结果，包括偏差分解、预测评价和推断对照 |
 
@@ -26,12 +28,39 @@
 python3.13 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements_survey.txt
-python run_paper.py
+python run_paper.py --output-dir reproduction_results --verify
 ```
 
-Windows 用户可用 `py -3.13 -m venv .venv` 创建环境，用 `.\.venv\Scripts\python.exe -m pip install -r requirements_survey.txt` 安装依赖，再运行 [`运行论文计算.bat`](运行论文计算.bat)。重算会更新 `paper_results/` 中的同名结果。可通过 [表格索引](paper_results/table_index.json) 和 [图形索引](paper_results/figure_index.json) 对照论文编号。
+Windows PowerShell可直接运行（项目可放在 `D:\Python-hyl\GeneratedSurveySamples`）：
 
-在 macOS 与 Python 3.13 上完成离线复算时，表 10 和表 12 的个别随机森林指标出现末位差异。仓库保留论文随附的原始图表。
+```powershell
+py -3.13 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements_survey.txt
+.\.venv\Scripts\python.exe run_paper.py --output-dir reproduction_results --verify
+```
+
+也可双击 [`运行论文计算.bat`](运行论文计算.bat)。全部重算结果保存在 `reproduction_results/`；原随稿结果 `paper_results/` 保留。原有 `python run_paper.py` 命令仍将结果写入 `paper_results/`。
+
+程序依次校验原始输入、逐条重建并解析原始API记录、整理数据、拟合统计模型、运行模拟、评价生成回答并导出图表。结果目录的 `logs/run.log`、`environment.json`、`run_status.json`、`input_audit.json`、`api_replay.json` 和 `verification.json` 保存过程与核对结果。核对不通过时返回非零退出码，并列出具体差异。
+
+2026年11月4日在 Linux、Python 3.13.5及指定五个计算包版本下，完整复算通过：14张表按显示精度一致，260条正文数值通过核对；原始响应重解析与分析数据一致。原Windows环境与此次验证环境分别存档。仓库原README记录过macOS下随机森林指标的末位差异，跨系统重算以实际核对报告为准。
+
+## 期刊资料说明
+
+- [数据来源与完整处理步骤](docs/data_provenance.md)
+- [变量字典](docs/variable_dictionary.csv)
+- [随机过程、种子、软件和操作系统](docs/randomness.md)
+- [表1—14、图1—5及正文数值的程序映射](docs/result_map.md)
+- [公式推导与方差计算口径](docs/derivations.md)
+- [核对结果及尚需作者确认的信息](docs/journal_check.md)
+
+首次下载公开数据的确切日期未写入原始清单，须由作者依据实际下载记录补充。当前材料明确保留了这一信息缺口，没有推定下载日期。
+
+运行回归保护检查：
+
+```bash
+python -m unittest discover -s tests -v
+```
 
 ## API 采集入口
 

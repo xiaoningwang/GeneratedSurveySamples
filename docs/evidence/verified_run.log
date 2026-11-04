@@ -1,0 +1,43 @@
+Started UTC: 2026-11-04T01:47:27.404533+00:00
+原始输入和8740条API响应核对通过；没有调用API。
+1/6 整理调查数据与固定样本划分
+2/6 拟合统计模型并计算统计对照
+统计模型及预算对照计算完成。
+3/6 计算四种总体、群体差值及样本量模拟
+总体一 总体均值=0.4500 估计方差降低比例=26.96%
+真实样本均值 bias=0.0007 RMSE=0.0358 coverage=93.95% width=0.1379
+直接生成均值 bias=-0.0600 RMSE=0.0603 coverage=0.00% width=0.0235
+边际校准 bias=0.0799 RMSE=0.0802 coverage=0.00% width=0.0264
+联合分组校准 bias=0.0799 RMSE=0.0802 coverage=0.00% width=0.0268
+残差校正 正确分布 bias=0.0002 RMSE=0.0306 coverage=94.75% width=0.1181
+残差校正 错误分布 bias=-0.1398 RMSE=0.1431 coverage=0.40% width=0.1181
+总体二 总体均值=0.4500 估计方差降低比例=56.39%
+真实样本均值 bias=0.0002 RMSE=0.0352 coverage=94.40% width=0.1379
+直接生成均值 bias=-0.0299 RMSE=0.0304 coverage=0.00% width=0.0205
+边际校准 bias=-0.0299 RMSE=0.0304 coverage=0.00% width=0.0205
+联合分组校准 bias=0.0573 RMSE=0.0575 coverage=0.00% width=0.0184
+残差校正 正确分布 bias=0.0004 RMSE=0.0232 coverage=95.30% width=0.0921
+残差校正 错误分布 bias=-0.0866 RMSE=0.0897 coverage=5.10% width=0.0921
+总体三 总体均值=0.1880 估计方差降低比例=17.82%
+真实样本均值 bias=-0.0004 RMSE=0.0283 coverage=94.35% width=0.1080
+直接生成均值 bias=0.0997 RMSE=0.0999 coverage=0.00% width=0.0227
+边际校准 bias=0.0206 RMSE=0.0213 coverage=2.60% width=0.0214
+联合分组校准 bias=0.0201 RMSE=0.0209 coverage=3.30% width=0.0214
+残差校正 正确分布 bias=-0.0001 RMSE=0.0256 coverage=94.25% width=0.0988
+残差校正 错误分布 bias=0.0794 RMSE=0.0834 coverage=9.25% width=0.0988
+总体四 总体均值=0.4500 估计方差降低比例=-82.01%
+真实样本均值 bias=0.0002 RMSE=0.0344 coverage=95.15% width=0.1379
+直接生成均值 bias=0.1398 RMSE=0.1400 coverage=0.00% width=0.0238
+边际校准 bias=-0.0002 RMSE=0.0063 coverage=96.10% width=0.0258
+联合分组校准 bias=-0.0002 RMSE=0.0064 coverage=96.15% width=0.0263
+残差校正 正确分布 bias=0.0000 RMSE=0.0464 coverage=95.30% width=0.1852
+残差校正 错误分布 bias=0.1400 RMSE=0.1475 coverage=14.75% width=0.1852
+4/6 分析论文使用的大模型回答数据
+大模型回答数据分析完成。
+5/6 绘制论文图形
+模拟与流程图已生成。
+论文图1—图5已按现稿编号导出；图5固定展示4种方法。
+6/6 保存正文数值与结果说明
+核对通过：论文14张表、正文数值及5幅图文件。
+
+计算完成，全部结果保存在：/workspace/scratch/36e70a99d2bb/analysis/journal_audit_1104/verified_run
